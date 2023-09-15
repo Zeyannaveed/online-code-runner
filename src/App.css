@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.flex{
+  margin-top: 20px;
+  display: flex;
+}
+body{
+  background-color: #202124;
+}
+
+.leftt{
+  overflow-x: hidden;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  width:95vw;
+  padding: 20px 20px;
+  background-color: #212121;
+  color: white;
+}
+.select{
+  background-color: #212121;
+  color: white;
+  font-size: 18px;
+  
+  padding: 10px 40px;
+}
+
+
+.selectt{margin-top: 6px;
+  margin-bottom: 10px;
+  background-color: #212121;
+  color: white;
+  font-size: 18px;
+  
+  padding: 10px 20px;
+}
+
+
+.white{
+  color: white;
+  font-size: 20px;
+}
+
+
+.right{
+  margin:0 auto;
+}
